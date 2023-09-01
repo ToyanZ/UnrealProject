@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/TargetDmg.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/Bar.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/TargetType.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/BarObject.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/BarComponent.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/h.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/LM/JD8W5S0NZY9D6SKZSVIJUV.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C9/ONWX3B26OZ98W06JKGIPNX.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/Target.uasset",
+				"E:/TRABAJO/DESARROLLO DE VIDEOJUEGOS/[PROYECTO] Unreal Tower Defense Inv/UnrealProject/UnrealProject/Content/Scripts/BarWidget.uasset"
+			]
+		}
+	]
+}
